@@ -8,6 +8,8 @@ Data sets are named according to the table number in PDF report.
 
 - [Table 5 : Population projection for Nepal 2011-2031 by sex and calendar year (medium variant)](https://github.com/Code4Nepal/population-projection/tree/master/data/table5.csv)
 
+- [Table 8 : Population projection for Nepal 2011-2031 by sex and calendar year (low variant)](https://github.com/Code4Nepal/population-projection/tree/master/data/table8.csv))
+
 
 **Source**: 
 > Volume 08, National Population and Housing Census 2011 (Population Projection 2011 – 2031) 
