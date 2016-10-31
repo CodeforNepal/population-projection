@@ -12,6 +12,8 @@ Data sets are labelled according to the table number in PDF report.
 
 - [Table 12 : Population projection by sex of Ecological Belt, 2011 - 2031 (medium variant)](https://github.com/Code4Nepal/population-projection/tree/master/data/ecological-belts/)
 
+- [Table 3 : Population projection by age and sex for Nepal, 2011 - 2031 (high variant)](https://github.com/Code4Nepal/population-projection/tree/master/data/ecological-belts/)
+
 
 **Source**: 
 > Volume 08, National Population and Housing Census 2011 (Population Projection 2011 – 2031) 
