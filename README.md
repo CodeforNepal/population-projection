@@ -8,6 +8,8 @@ Data sets are labelled according to the table number in PDF report.
 
 - [Table 3 : Population projection by age and sex for Nepal, 2011 - 2031 (high variant)](https://github.com/Code4Nepal/population-projection/tree/master/data/table-3)
 
+- [Table 4 : Summary of population projection (medium variant)](https://github.com/Code4Nepal/population-projection/tree/master/data/table-4.csv)
+
 - [Table 5 : Population projection for Nepal 2011-2031 by sex and calendar year (medium variant)](https://github.com/Code4Nepal/population-projection/tree/master/data/table5.csv)
 
 - [Table 6 : Population projection by age and sex for Nepal, 2011 - 2031 (medium variant)](https://github.com/Code4Nepal/population-projection/tree/master/data/table-6/)
